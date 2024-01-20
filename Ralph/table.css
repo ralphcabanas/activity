@@ -1,0 +1,20 @@
+.container{
+    width: 50%;
+    height: 100%;
+    margin: 0 auto;
+    font-family: 'Roboto', 'sans-serif';
+    line-height: 1.5;
+}
+
+#myTable{
+    border: 5px solid #03517e;
+    width: 100%;
+    font-size: 18px;
+    border-collapse: collapse;
+}
+
+#myTable th, #myTable td{
+    border: 2px solid #8adeff;
+    padding: 12px; 
+
+}
